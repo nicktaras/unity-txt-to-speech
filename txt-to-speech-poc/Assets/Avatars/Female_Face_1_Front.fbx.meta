@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 93ae6529f916e4c5a991cdf2aeba08bb
+timeCreated: 1509970516
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Camera
+    100006: Camera.001
+    100008: default
+    100010: default.001
+    100012: Eyelashes
+    100014: Eyelashes.001
+    100016: //RootNode
+    100018: Lamp
+    100020: Lamp.001
+    100022: mixamorig_Head
+    100024: mixamorig_HeadTop_End
+    100026: mixamorig_HeadTop_End_end
+    100028: mixamorig_Hips
+    100030: mixamorig_LeftArm
+    100032: mixamorig_LeftEye
+    100034: mixamorig_LeftEye_end
+    100036: mixamorig_LeftFoot
+    100038: mixamorig_LeftForeArm
+    100040: mixamorig_LeftHand
+    100042: mixamorig_LeftHand_end
+    100044: mixamorig_LeftLeg
+    100046: mixamorig_LeftShoulder
+    100048: mixamorig_LeftToe_End
+    100050: mixamorig_LeftToe_End_end
+    100052: mixamorig_LeftToeBase
+    100054: mixamorig_LeftUpLeg
+    100056: mixamorig_Neck
+    100058: mixamorig_RightArm
+    100060: mixamorig_RightEye
+    100062: mixamorig_RightEye_end
+    100064: mixamorig_RightFoot
+    100066: mixamorig_RightForeArm
+    100068: mixamorig_RightHand
+    100070: mixamorig_RightHand_end
+    100072: mixamorig_RightLeg
+    100074: mixamorig_RightShoulder
+    100076: mixamorig_RightToe_End
+    100078: mixamorig_RightToe_End_end
+    100080: mixamorig_RightToeBase
+    100082: mixamorig_RightUpLeg
+    100084: mixamorig_Spine
+    100086: mixamorig_Spine1
+    100088: mixamorig_Spine2
+    400000: Armature
+    400002: Body
+    400004: Camera
+    400006: Camera.001
+    400008: default
+    400010: default.001
+    400012: Eyelashes
+    400014: Eyelashes.001
+    400016: //RootNode
+    400018: Lamp
+    400020: Lamp.001
+    400022: mixamorig_Head
+    400024: mixamorig_HeadTop_End
+    400026: mixamorig_HeadTop_End_end
+    400028: mixamorig_Hips
+    400030: mixamorig_LeftArm
+    400032: mixamorig_LeftEye
+    400034: mixamorig_LeftEye_end
+    400036: mixamorig_LeftFoot
+    400038: mixamorig_LeftForeArm
+    400040: mixamorig_LeftHand
+    400042: mixamorig_LeftHand_end
+    400044: mixamorig_LeftLeg
+    400046: mixamorig_LeftShoulder
+    400048: mixamorig_LeftToe_End
+    400050: mixamorig_LeftToe_End_end
+    400052: mixamorig_LeftToeBase
+    400054: mixamorig_LeftUpLeg
+    400056: mixamorig_Neck
+    400058: mixamorig_RightArm
+    400060: mixamorig_RightEye
+    400062: mixamorig_RightEye_end
+    400064: mixamorig_RightFoot
+    400066: mixamorig_RightForeArm
+    400068: mixamorig_RightHand
+    400070: mixamorig_RightHand_end
+    400072: mixamorig_RightLeg
+    400074: mixamorig_RightShoulder
+    400076: mixamorig_RightToe_End
+    400078: mixamorig_RightToe_End_end
+    400080: mixamorig_RightToeBase
+    400082: mixamorig_RightUpLeg
+    400084: mixamorig_Spine
+    400086: mixamorig_Spine1
+    400088: mixamorig_Spine2
+    4300000: Eyelashes.001
+    4300002: default.001
+    4300004: Body
+    4300006: default
+    4300008: Eyelashes
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Body
+    13700002: default
+    13700004: default.001
+    13700006: Eyelashes
+    13700008: Eyelashes.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
