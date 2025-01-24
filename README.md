@@ -6,3 +6,6 @@ A Unity Application created to demonstrate text to speech via a talking 3D model
 - Crosstales and Crazy Minnow Studio Unity Plugins are used to project the video and simulate speaking and blinking.
 
 Feel free to use this as a basis to create your own talking 3-D model. Connected to an AI, the possibilities are endless to what can be done. 
+
+https://github.com/user-attachments/assets/915d7d1c-3892-4d54-a8f6-5c311e6dade3
+
